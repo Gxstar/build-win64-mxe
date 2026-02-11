@@ -1,5 +1,5 @@
 # build-win64-mxe
-
+This is my test project.
 libvips and its dependencies cross-compiled for all supported Windows architectures (`x86_64`,
 `i686` and `aarch64`).
 
